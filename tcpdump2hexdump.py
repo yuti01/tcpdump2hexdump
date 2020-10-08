@@ -12,8 +12,8 @@ def add_spaces(string):
 	return string_to_return
 
 
-tcpdump_file_path = "/home/kali/cshacked-capture.txt" # CHANGE this to your input file path
-hexdump_file_path = "/home/kali/cshacked-capture-hexdump.txt" # CHANGE this to your output file path
+tcpdump_file_path = "/home/kali/capture.txt" # CHANGE this to your input file path
+hexdump_file_path = "/home/kali/capture-hexdump.txt" # CHANGE this to your output file path
 
 print('Creating a file in hexdump style from the tcpdump output ...')
 
