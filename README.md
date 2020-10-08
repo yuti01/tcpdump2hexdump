@@ -9,4 +9,4 @@ To get the hex output from tcpdump, use -XX option to print the hex content of t
 
 Ex: tcpdump -i eth0 -XX -c 250 
 
-!! Before you execute the script modify the paths to the input and output files!!
+!! Before you execute the script modify the paths to the input and output files !!
